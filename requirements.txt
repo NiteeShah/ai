@@ -1,0 +1,15 @@
+# PyTorch (required for running models)
+torch>=1.9.0
+
+# Transformers library from Hugging Face
+transformers>=4.5.0
+
+# FAISS for vector search
+faiss-cpu>=1.7.0
+
+# NumPy for numerical operations
+numpy>=1.19.2
+
+# Datasets library from Hugging Face
+datasets>=1.6.0
+
