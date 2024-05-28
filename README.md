@@ -15,7 +15,7 @@ Installation
 
 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/ai_rag_simple.git
+https://github.com/NiteeShah/ai.git
 ```
 
 2. Enter the Simple RAG Directory
@@ -46,7 +46,9 @@ This script demonstrates how to use the FAISS index for efficient similarity sea
 
 ## Colab Project 
 
-Follow the Google Colab Notebook alternatively - ai_rag_v3.ipynb 
+As an alternative way to implement Naive RAG, you can copy the Google Colab Python NoteBook
+
+'ai_rag_simple/ai_rag_v3.ipynb'
 
 ## Project Structure
 
