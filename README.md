@@ -10,7 +10,7 @@ You'll learn how to:
 
 Before you begin, make sure you have Python installed on your system. You will also need to install some essential libraries:
 
-Step 1: ai_rag_simple
+Step 1: cd ai_rag_simple
 
 Step 2: pip install -r requirements.txt
 
