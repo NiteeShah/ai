@@ -26,13 +26,10 @@ This project demonstrates the use of embeddings, Vector Databases, and Retrieval
 
 Before you begin, make sure you have Python installed on your system. You will also need to install some essential libraries:
 
+Step 1: pip install -r requirements.txt
 
-pip install numpy faiss-cpu transformers
+Step 2: Run the file named setup_vector_database.py.
 
-Steps to Run the Code
-
-Step 1: Run the file named setup_vector_database.py.
-
-Step 2: Run the file named integrate_rag.py.
+Step 3: Run the file named integrate_rag.py.
 
 
