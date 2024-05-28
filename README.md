@@ -18,9 +18,11 @@ Installation
 git clone https://github.com/yourusername/ai_rag_simple.git
 ```
 
+2. Enter the Simple RAG Directory
+   
 `cd ai_rag_simple`
 
-2. Install Dependencies
+3. Install Dependencies
 
 Install the required Python packages by running.
 
@@ -41,6 +43,10 @@ To implement a simple RAG on your custom data, run the following script:
 `python3 naive_rag_from_text.py`
 
 This script demonstrates how to use the FAISS index for efficient similarity search and how to integrate it with text generation models.
+
+## Colab Project 
+
+Follow the Google Colab Notebook alternatively - ai_rag_v3.ipynb 
 
 ## Project Structure
 
