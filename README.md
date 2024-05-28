@@ -1,21 +1,48 @@
 Vector Databases and Retrieval-Augmented Generation (RAG)
 
-This is an AI assisted project.
-This project showcases how to use embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG) to enhance AI application performance.
-You'll learn how to:
+## Introduction
 
-- Create embeddings for data
-- Set up a Vector Database
-- Use RAG to enhance AI text generation
+This project showcases how to use embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG) to enhance AI application performance. The primary objectives of this project are:
 
-Before you begin, make sure you have Python installed on your system. You will also need to install some essential libraries:
+- Creating embeddings for data
+- Setting up a Vector Database
+- Using RAG to enhance AI text generation
 
-Step 1: cd ai_rag_simple
+## Prerequisites
 
-Step 2: pip install -r requirements.txt
+Before you begin, make sure you have Python installed on your system. You will also need to install some essential libraries, which are listed in the requirements.txt file.
+Installation
 
-Step 3: Run the file named sentence_embeddings.py (to see how the embeddings of your statements look like) 
+1. Clone the Repository
+```sh
+git clone https://github.com/yourusername/ai_rag_simple.git
+```
 
-Step 4: Run the file named naive_rag_from_text.py (to implement a simple RAG on your custom data and play around)
+`cd ai_rag_simple`
 
+2. Install Dependencies
 
+Install the required Python packages by running.
+
+`pip install -r requirements.txt`
+
+## Usage
+
+Step 1: Create Embeddings
+Run the script to generate embeddings for your data:
+
+`python3 sentence_embeddings.py`
+
+This script will create embeddings for the predefined sentences and save them in a FAISS index. You can check the embeddings of your statements using this file.
+
+Step 2: Implement RAG
+To implement a simple RAG on your custom data, run the following script:
+
+`python3 naive_rag_from_text.py`
+
+This script demonstrates how to use the FAISS index for efficient similarity search and how to integrate it with text generation models.
+
+## Project Structure
+
+sentence_embeddings.py: This file contains the code to generate and store embeddings in a FAISS index.
+naive_rag_from_text.py: This file shows how to use the FAISS index to implement Retrieval-Augmented Generation on custom data.
