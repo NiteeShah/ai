@@ -48,7 +48,7 @@ This script demonstrates how to use the FAISS index for efficient similarity sea
 
 As an alternative way to implement Naive RAG, you can copy the Google Colab Python NoteBook
 
-'ai_rag_simple/ai_rag_v3.ipynb'
+`ai_rag_simple/ai_rag_v3.ipynb`
 
 ## Project Structure
 
