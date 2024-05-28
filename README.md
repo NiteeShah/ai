@@ -4,7 +4,7 @@ This is an AI assisted project.
 This project
 showcases how to use embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG) to enhance AI application performance.
 
-#######
+
 Table of Contents
 
 Introduction
@@ -15,7 +15,7 @@ Introduction
 	Step 3: Generate Text with RAG
 3. Conclusion
 
-############
+
 Introduction
 
 This project demonstrates the use of embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG) using a fun rock concert metaphor. You'll learn how to:
