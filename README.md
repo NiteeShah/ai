@@ -10,7 +10,7 @@ This project showcases how to use embeddings, Vector Databases, and Retrieval-Au
 
 ## Prerequisites
 
-Before you begin, make sure you have Python installed on your system. You will also need to install some essential libraries, which are listed in the requirements.txt file.
+Before you begin, make sure you have Python installed on your GPU enabled system. You will also need to install some essential libraries, which are listed in the requirements.txt file.
 Installation
 
 1. Clone the Repository
