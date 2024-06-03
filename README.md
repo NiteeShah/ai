@@ -2,7 +2,7 @@ Vector Databases and Retrieval-Augmented Generation (RAG)
 
 ## Introduction
 
-This project showcases how to use embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG) to enhance AI application performance. The primary objectives of this project are:
+This project showcases how to use embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG) to enhance AI application performance, created with AI assistance. The primary objectives of this project are:
 
 - Creating embeddings for data
 - Setting up a Vector Database
